@@ -25,9 +25,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".PersonalTrainerLogin"
-            android:label="@string/title_activity_personal_trainer_login"></activity>
     </application>
 
 </manifest>
